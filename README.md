@@ -252,7 +252,7 @@ The CheckMe Todo app follows a clean architecture pattern with clear separation 
 - 🌙 Dark mode support
 - 🏷️ Custom categories
 
-## Screensots
+## Screenshots
 
 ![image](https://github.com/user-attachments/assets/0f4b800b-91ab-40da-8c76-26d573612a1d)
 
@@ -297,6 +297,11 @@ as you are seeing here on this screenshot also i have the opportunity to edit my
 ![image](https://github.com/user-attachments/assets/d89bc7d1-248f-4e4c-8b96-956ff58366ab)
 
 as you are seeing here in this screenshot i have the opportunity to search my task.
+
+![image](https://github.com/user-attachments/assets/65c8c3fc-0e6c-4453-b040-2b4eac7e8497)
+
+on the above screenshot i have an opportunity to delete the task.
+
 
 
 
