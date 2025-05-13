@@ -252,6 +252,65 @@ The CheckMe Todo app follows a clean architecture pattern with clear separation 
 - 🌙 Dark mode support
 - 🏷️ Custom categories
 
+## Screensots
+
+![image](https://github.com/user-attachments/assets/0f4b800b-91ab-40da-8c76-26d573612a1d)
+
+in the above screenshot it tried to login with email which does not contains "@" so it fails to login due to some validations
+
+![image](https://github.com/user-attachments/assets/b7570346-da5a-4a79-8531-7752f1a0ec56)
+
+then here login is working
+
+![image](https://github.com/user-attachments/assets/a3e56dca-2643-4e86-8b79-41c49f139e80)
+
+this is home screen where i can add my tasks, view them, delete them and search them.
+
+![image](https://github.com/user-attachments/assets/2ddc16be-f776-4c65-958d-535e8cabd77a)
+
+in te above screenshot it shows the todo details screen after clinking on the "+" button to allow you to add a task with it's descrption and it's due date as well
+
+![image](https://github.com/user-attachments/assets/39221479-203b-45ae-82c2-16372554ae57)
+
+the above screenshot shows that app allows you to add the due date to you tasks
+
+![image](https://github.com/user-attachments/assets/fdcddafc-6297-458b-94d2-a3806c03b720)
+
+here this screenshot shows the general activities
+
+![image](https://github.com/user-attachments/assets/d7c604d3-f1a0-4b11-809c-a2dde8b60645)
+
+in the above screenshot it shows that after clicking on save button the tacks is added to the todo list with the task's title, status, description and due date; and here the status is pending because it is unchecked.
+
+![image](https://github.com/user-attachments/assets/12e06237-d44a-4838-b524-0c7daedea788)
+
+for example in above screenshot it shows that the task is checked so the status automatically changed from pending to done.
+
+![image](https://github.com/user-attachments/assets/878201f6-7cdc-4712-8130-948944de13a4)
+
+on the above screenshot i have created many tasks and i have putted their descriptions and their due dates as well, and their status some are done and other are still pending.
+
+![image](https://github.com/user-attachments/assets/d29bd0f4-4df7-4a5d-aad2-e4b4f4d21eab)
+
+as you are seeing here on this screenshot also i have the opportunity to edit my task when i have already created it but forexample if i want to change something.
+
+![image](https://github.com/user-attachments/assets/d89bc7d1-248f-4e4c-8b96-956ff58366ab)
+
+as you are seeing here in this screenshot i have the opportunity to search my task.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
